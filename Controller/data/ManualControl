@@ -1,0 +1,9 @@
+Manual Control
+LeftDrive	Left Drive	3	SLIDER	Y Axis	0	-1.0	0.0
+RightDrive	Right Drive	3	SLIDER	Y Rotation	0	-1.0	0.0
+LiftDown	Lift Down	3	SLIDER	Z Axis	0	1.0	0.0
+LiftUp	Lift Up	1	BUTTON	Button 4	0	0.0	0.0
+DigDown	Dig Down	1	BUTTON	Button 0	0	0.0	0.0
+DigUp	Dig Up	1	BUTTON	Button 1	0	0.0	0.0
+DumpDown	Dump Down	1	BUTTON	Button 2	0	0.0	0.0
+DumpUp	Dump Up	1	BUTTON	Button 3	0	0.0	0.0
